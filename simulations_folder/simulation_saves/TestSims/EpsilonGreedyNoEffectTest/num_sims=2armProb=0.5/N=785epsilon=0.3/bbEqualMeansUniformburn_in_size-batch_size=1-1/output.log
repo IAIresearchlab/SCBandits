@@ -1,0 +1,5 @@
+HERE 1
+../simulation_saves/EpsilonGreedyNoEffectTest/num_sims=2armProb=0.5/N=785epsilon=0.3/bbEqualMeansUniformburn_in_size-batch_size=1-1
+epsilon 0.3
+burn_in_size, batch_size 1 1
+prob_per_arm [0.5, 0.5]

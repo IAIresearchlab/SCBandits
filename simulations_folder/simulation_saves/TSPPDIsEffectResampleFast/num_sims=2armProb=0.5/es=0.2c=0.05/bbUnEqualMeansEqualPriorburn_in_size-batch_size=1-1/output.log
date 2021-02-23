@@ -1,0 +1,8 @@
+Resampling? True
+../simulation_saves/TSPPDIsEffectResampleFast/num_sims=2armProb=0.5/es=0.2c=0.05/bbUnEqualMeansEqualPriorburn_in_size-batch_size=1-1
+c 0.05
+burn_in_size, batch_size 1 1
+center 0.5
+prob_per_arm [0.6, 0.4]
+Prior params:  [1.0, 1.0]
+Execution time = 0.129415 seconds

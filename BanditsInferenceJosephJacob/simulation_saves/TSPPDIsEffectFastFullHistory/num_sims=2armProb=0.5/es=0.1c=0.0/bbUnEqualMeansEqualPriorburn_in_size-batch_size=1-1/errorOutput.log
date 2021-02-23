@@ -1,0 +1,12 @@
+run_effect_size_simulations_beta_fast_TSPPD.py:103: RuntimeWarning: invalid value encountered in double_scalars
+  wald_type_stat = (means[0] - means[1])/SE #(P^hat_A - P^hat_b)/SE
+run_effect_size_simulations_beta_fast_TSPPD.py:204: RuntimeWarning: invalid value encountered in true_divide
+  w = math.sqrt(sum(sum((prob_table_h1-prob_table_h0)**2/prob_table_h0)))
+Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+NumExpr defaulting to 8 threads.
+../IPW_Functions/calc_ipw_main.py:295: RuntimeWarning: invalid value encountered in double_scalars
+  wald_type_stat_ipw = (ipw_means[0] - ipw_means[1])/SE_ipw #(P^hat_A - P^hat_b)/SE
+run_effect_size_simulations_beta_fast_TSPPD.py:103: RuntimeWarning: divide by zero encountered in double_scalars
+  wald_type_stat = (means[0] - means[1])/SE #(P^hat_A - P^hat_b)/SE
+../IPW_Functions/calc_ipw_main.py:295: RuntimeWarning: divide by zero encountered in double_scalars
+  wald_type_stat_ipw = (ipw_means[0] - ipw_means[1])/SE_ipw #(P^hat_A - P^hat_b)/SE

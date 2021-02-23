@@ -1,0 +1,38 @@
+pdf
+Resampling? True
+../simulation_saves/TSPPDNoEffectResampleFast/num_sims=2armProb=0.5/N=657c=0.0/bbEqualMeansEqualPriorburn_in_size-batch_size=1-1
+c 0.0
+burn_in_size, batch_size 1 1
+using real world sample size 164.25
+prob_per_arm [0.5, 0.5]
+len(sys.argvs) 7
+armsEqual
+sys.argv[5] None
+Prior params:  [1.0, 1.0]
+step_size 657
+n_size_list [83, 164, 328, 657]
+trials_count 1314
+Index(['AlgorithmAction', 'ObservedRewardofAction',
+       'MatchesOptimalExpectedAction', 'ExpectedRegret',
+       'CumulativeExpectedRegret', 'Action1SuccessCount',
+       'Action1FailureCount', 'Action1EstimatedProb', 'Action2SuccessCount',
+       'Action2FailureCount', 'Action2EstimatedProb', 'Action1Sample',
+       'Action2Sample', 'IsExploring', 'ipws', 'ProbAction1IsBest',
+       'SampleNumber'],
+      dtype='object')
+     AlgorithmAction  ObservedRewardofAction  ...  ProbAction1IsBest  SampleNumber
+0                  1                       1  ...              0.477             0
+1                  2                       1  ...              0.664             1
+2                  1                       1  ...              0.490             2
+3                  1                       0  ...              0.600             3
+4                  2                       0  ...              0.425             4
+..               ...                     ...  ...                ...           ...
+652                2                       0  ...              0.191           652
+653                2                       1  ...              0.193           653
+654                2                       1  ...              0.177           654
+655                2                       0  ...              0.155           655
+656                2                       0  ...              0.188           656
+
+[1314 rows x 17 columns]
+1314
+Execution time = 1.898181 seconds

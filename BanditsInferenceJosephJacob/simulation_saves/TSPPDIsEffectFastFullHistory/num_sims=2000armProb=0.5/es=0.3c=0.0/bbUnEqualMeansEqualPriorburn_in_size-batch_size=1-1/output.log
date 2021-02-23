@@ -1,0 +1,41 @@
+pdf
+Resampling? False
+../simulation_saves/TSPPDIsEffectFastFullHistory/num_sims=2000armProb=0.5/es=0.3c=0.0/bbUnEqualMeansEqualPriorburn_in_size-batch_size=1-1
+c 0.0
+burn_in_size, batch_size 1 1
+center 0.5
+prob_per_arm [0.65, 0.35]
+len(sys.argvs) 6
+0.0
+sys.argv[5] None
+Prior params:  [1.0, 1.0]
+step_size 352
+n_size_list [ 2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
+ 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73
+ 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88]
+trials_count 704000
+Index(['AlgorithmAction', 'ObservedRewardofAction',
+       'MatchesOptimalExpectedAction', 'ExpectedRegret',
+       'CumulativeExpectedRegret', 'Action1SuccessCount',
+       'Action1FailureCount', 'Action1EstimatedProb', 'Action2SuccessCount',
+       'Action2FailureCount', 'Action2EstimatedProb', 'Action1Sample',
+       'Action2Sample', 'IsExploring', 'ipws', 'ProbAction1IsBest',
+       'SampleNumber'],
+      dtype='object')
+     AlgorithmAction  ObservedRewardofAction  ...  ProbAction1IsBest  SampleNumber
+0                  1                       1  ...              0.528             0
+1                  2                       0  ...              0.689             1
+2                  1                       1  ...              0.807             2
+3                  1                       0  ...              0.902             3
+4                  1                       1  ...              0.802             4
+..               ...                     ...  ...                ...           ...
+347                1                       1  ...              0.990           347
+348                1                       1  ...              0.996           348
+349                1                       0  ...              0.993           349
+350                1                       0  ...              0.997           350
+351                1                       1  ...              0.996           351
+
+[704000 rows x 17 columns]
+704000
+Execution time = 4496.228471 seconds

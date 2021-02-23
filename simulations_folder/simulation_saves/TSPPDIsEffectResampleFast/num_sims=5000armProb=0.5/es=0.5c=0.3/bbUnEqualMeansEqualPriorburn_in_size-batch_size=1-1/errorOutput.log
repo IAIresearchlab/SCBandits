@@ -1,0 +1,2 @@
+run_effect_size_simulations_beta_fast_TSPPD.py:92: RuntimeWarning: divide by zero encountered in double_scalars
+  wald_type_stat = (means[0] - means[1])/SE #(P^hat_A - P^hat_b)/SE

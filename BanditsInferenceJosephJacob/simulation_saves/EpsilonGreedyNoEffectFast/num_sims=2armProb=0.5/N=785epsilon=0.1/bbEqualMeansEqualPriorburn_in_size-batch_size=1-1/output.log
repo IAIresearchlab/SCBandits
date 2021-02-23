@@ -1,0 +1,18 @@
+../simulation_saves/EpsilonGreedyNoEffectFast/num_sims=2armProb=0.5/N=785epsilon=0.1/bbEqualMeansEqualPriorburn_in_size-batch_size=1-1
+epsilon 0.1
+burn_in_size, batch_size 1 1
+prob_per_arm [0.5, 0.5]
+Prior params:  [1.0, 1.0]
+USING GREEDY MODEL
+USING GREEDY MODEL
+step_size 3140
+n_size_list [393, 785, 1570, 3140]
+trials_count 6280
+Index(['AlgorithmAction', 'ObservedRewardofAction',
+       'MatchesOptimalExpectedAction', 'ExpectedRegret',
+       'CumulativeExpectedRegret', 'Action1SuccessCount',
+       'Action1FailureCount', 'Action1EstimatedProb', 'Action2SuccessCount',
+       'Action2FailureCount', 'Action2EstimatedProb', 'Action1Sample',
+       'Action2Sample', 'IsExploring', 'SampleNumber'],
+      dtype='object')
+Execution time = 0.522283 seconds

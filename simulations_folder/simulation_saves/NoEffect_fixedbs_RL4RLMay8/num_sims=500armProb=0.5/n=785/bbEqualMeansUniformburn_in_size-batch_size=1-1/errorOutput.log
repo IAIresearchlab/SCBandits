@@ -1,0 +1,8 @@
+louie_experiments/run_effect_size_simulations_beta.py:126: RuntimeWarning: divide by zero encountered in long_scalars
+  cur_row['ratio'] = sample_sizes[0] / sample_sizes[1]
+louie_experiments/run_effect_size_simulations_beta.py:181: RuntimeWarning: invalid value encountered in true_divide
+  w = math.sqrt(sum(sum((prob_table_h1-prob_table_h0)**2/prob_table_h0)))
+louie_experiments/run_effect_size_simulations_beta.py:115: RuntimeWarning: invalid value encountered in double_scalars
+  wald_type_stat = (mean_1 - mean_2)/SE #(P^hat_A - P^hat_b)/SE
+louie_experiments/run_effect_size_simulations_beta.py:115: RuntimeWarning: divide by zero encountered in double_scalars
+  wald_type_stat = (mean_1 - mean_2)/SE #(P^hat_A - P^hat_b)/SE

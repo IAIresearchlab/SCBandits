@@ -1,0 +1,3 @@
+IsExploring shows histograms for samples where actions were chosen randomly
+IsExploiting shows histograms for samples where actions were chosen greedily
+ExploreandExploit shows histograms for all samples

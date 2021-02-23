@@ -1,0 +1,5 @@
+HERE 1
+EpsilonGreedyIsEffectMay8/num_sims=5000armProb=0.5/es=0.5epsilon=0.1/bbUnEqualMeansUniformburn_in_size-batch_size=1-1
+epsilon 0.1
+burn_in_size, batch_size 1 1
+prob_per_arm [0.75, 0.25]

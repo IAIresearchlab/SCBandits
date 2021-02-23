@@ -1,0 +1,15 @@
+../simulation_saves/EpsilonGreedyNoEffectFast/num_sims=5000armProb=0.5/N=88epsilon=0.1/bbEqualMeansUniformburn_in_size-batch_size=1-1
+epsilon 0.1
+burn_in_size, batch_size 1 1
+prob_per_arm [0.5, 0.5]
+step_size 352
+n_size_list [44, 88, 176, 352]
+trials_count 1760000
+Index(['AlgorithmAction', 'ObservedRewardofAction',
+       'MatchesOptimalExpectedAction', 'ExpectedRegret',
+       'CumulativeExpectedRegret', 'Action1SuccessCount',
+       'Action1FailureCount', 'Action1EstimatedProb', 'Action2SuccessCount',
+       'Action2FailureCount', 'Action2EstimatedProb', 'Action1Sample',
+       'Action2Sample', 'IsExploring', 'SampleNumber'],
+      dtype='object')
+Execution time = 324.118402 seconds

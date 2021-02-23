@@ -1,0 +1,14 @@
+HERE 1
+../simulation_saves/EpsilonGreedyNoEffectTest/num_sims=2armProb=0.5/N=88epsilon=0.3/bbEqualMeansEqualPriorburn_in_size-batch_size=1-1
+epsilon 0.3
+burn_in_size, batch_size 1 1
+prob_per_arm [0.5, 0.5]
+Prior params:  [1.0, 1.0]
+USING GREEDY MODEL
+USING GREEDY MODEL
+USING GREEDY MODEL
+USING GREEDY MODEL
+USING GREEDY MODEL
+USING GREEDY MODEL
+USING GREEDY MODEL
+USING GREEDY MODEL

@@ -1,0 +1,23 @@
+pdf
+Resampling? True
+../simulation_saves/TSPPDIsEffectResampleFast/num_sims=5000armProb=0.5/es=0.08c=0.0/bbUnEqualMeansEqualPriorburn_in_size-batch_size=1-1
+c 0.0
+burn_in_size, batch_size 1 1
+center 0.5
+prob_per_arm [0.54, 0.46]
+len(sys.argvs) 6
+0.0
+sys.argv[5] None
+Prior params:  [1.0, 1.0]
+step_size 657
+n_size_list [83, 164, 328, 657]
+trials_count 3285000
+Index(['AlgorithmAction', 'ObservedRewardofAction',
+       'MatchesOptimalExpectedAction', 'ExpectedRegret',
+       'CumulativeExpectedRegret', 'Action1SuccessCount',
+       'Action1FailureCount', 'Action1EstimatedProb', 'Action2SuccessCount',
+       'Action2FailureCount', 'Action2EstimatedProb', 'Action1Sample',
+       'Action2Sample', 'IsExploring', 'ipws', 'ProbAction1IsBest',
+       'SampleNumber'],
+      dtype='object')
+Execution time = 4363.176267 seconds

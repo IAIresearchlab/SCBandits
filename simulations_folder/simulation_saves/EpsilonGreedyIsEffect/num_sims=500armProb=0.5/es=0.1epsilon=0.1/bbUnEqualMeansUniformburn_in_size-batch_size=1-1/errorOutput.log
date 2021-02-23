@@ -1,0 +1,6 @@
+run_effect_size_simulations_beta_epsilon_greedy.py:182: RuntimeWarning: invalid value encountered in true_divide
+  w = math.sqrt(sum(sum((prob_table_h1-prob_table_h0)**2/prob_table_h0)))
+run_effect_size_simulations_beta_epsilon_greedy.py:116: RuntimeWarning: divide by zero encountered in double_scalars
+  wald_type_stat = (mean_1 - mean_2)/SE #(P^hat_A - P^hat_b)/SE
+run_effect_size_simulations_beta_epsilon_greedy.py:116: RuntimeWarning: invalid value encountered in double_scalars
+  wald_type_stat = (mean_1 - mean_2)/SE #(P^hat_A - P^hat_b)/SE

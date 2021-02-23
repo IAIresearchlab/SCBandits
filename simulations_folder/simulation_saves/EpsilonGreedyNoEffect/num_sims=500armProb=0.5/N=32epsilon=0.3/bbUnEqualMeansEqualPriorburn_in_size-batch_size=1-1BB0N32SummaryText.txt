@@ -1,0 +1,76 @@
+
+Total number of samples:16
+Arm stats: [0.5, 0.5]
+Prior params: [1.0, 1.0]
+Proportion of samples where null hyp was rejected:0.022
+Proportion of samples where null hyp was rejected based on Wald-type statistic: 0.318
+P value from Wald-type statistic: 0.37831404967333704
+Wald-type statistic: 0.08965660173306855
+P value: 0.5090831601133288
+Average ratio of condition1:condition2: inf
+Mean condition 1: 0.4375758918680605
+Mean condition 2: 0.42033526518375003
+Range condition 1: [0.0, 1.0]
+Range condition 2: [0.0, 1.0]
+Average actual effect size: 0.22382573422647511
+Average power based on ratio:0.050000000000000044
+Number of significant cases: 11
+Proportion of significant cases where sign is reversed:0.45454545454545453
+Proportion of all cases where sign is reversed:0.466
+
+Total number of samples:32
+Arm stats: [0.5, 0.5]
+Prior params: [1.0, 1.0]
+Proportion of samples where null hyp was rejected:0.04
+Proportion of samples where null hyp was rejected based on Wald-type statistic: 0.13
+P value from Wald-type statistic: 0.4107080326204454
+Wald-type statistic: 0.05448189927364926
+P value: 0.44676045611986026
+Average ratio of condition1:condition2: 2.415251838175336
+Mean condition 1: 0.4349552289951873
+Mean condition 2: 0.4341559525484846
+Range condition 1: [0.0, 0.8]
+Range condition 2: [0.0, 0.7777777777777778]
+Average actual effect size: 0.16059353642155016
+Average power based on ratio:0.050000000000000044
+Number of significant cases: 20
+Proportion of significant cases where sign is reversed:0.4
+Proportion of all cases where sign is reversed:0.506
+
+Total number of samples:64
+Arm stats: [0.5, 0.5]
+Prior params: [1.0, 1.0]
+Proportion of samples where null hyp was rejected:0.044
+Proportion of samples where null hyp was rejected based on Wald-type statistic: 0.068
+P value from Wald-type statistic: 0.4812659588950163
+Wald-type statistic: 0.04522532185766648
+P value: 0.4897831837174281
+Average ratio of condition1:condition2: 2.1152813167010227
+Mean condition 1: 0.47162364718876615
+Mean condition 2: 0.4673943475990512
+Range condition 1: [0.08333333333333333, 0.7333333333333333]
+Range condition 2: [0.0, 0.7142857142857143]
+Average actual effect size: 0.10063628791722391
+Average power based on ratio:0.050000000000000044
+Number of significant cases: 22
+Proportion of significant cases where sign is reversed:0.5
+Proportion of all cases where sign is reversed:0.458
+
+Total number of samples:128
+Arm stats: [0.5, 0.5]
+Prior params: [1.0, 1.0]
+Proportion of samples where null hyp was rejected:0.036
+Proportion of samples where null hyp was rejected based on Wald-type statistic: 0.06
+P value from Wald-type statistic: 0.4612929925487445
+Wald-type statistic: -0.05013889137577158
+P value: 0.46702963256597513
+Average ratio of condition1:condition2: 2.015253476157248
+Mean condition 1: 0.46635570235016327
+Mean condition 2: 0.4721177071951417
+Range condition 1: [0.15384615384615385, 0.696969696969697]
+Range condition 2: [0.13333333333333333, 0.6565656565656566]
+Average actual effect size: 0.07517703669295989
+Average power based on ratio:0.050000000000000044
+Number of significant cases: 18
+Proportion of significant cases where sign is reversed:0.6666666666666666
+Proportion of all cases where sign is reversed:0.506
